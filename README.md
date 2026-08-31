@@ -1749,7 +1749,6 @@ This project demonstrates an end-to-end workflow spanning multiple areas of Data
 * CSV-based model/data interfaces
 * Streamlit dashboard
 * Git
-* Optional Docker deployment
 
 ---
 
@@ -1820,8 +1819,6 @@ https://github.com/Taniya2711/eta-prediction-optimizer
 **🌍 Interactive Folium route maps**
 
 **🖥️ Streamlit dashboard**
-
-**🐳 Docker-ready architecture**
 
 ---
 
